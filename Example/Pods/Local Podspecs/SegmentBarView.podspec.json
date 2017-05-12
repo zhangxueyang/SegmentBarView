@@ -1,0 +1,22 @@
+{
+  "name": "SegmentBarView",
+  "version": "0.1.0",
+  "summary": "A short description of SegmentBarView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Zhangxueyang/SegmentBarView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Zhangxueyang": "cocoazxy@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Zhangxueyang/SegmentBarView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SegmentBarView/Classes/**/*"
+}

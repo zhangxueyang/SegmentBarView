@@ -1,0 +1,6 @@
+framework module Pods_SegmentBarView_Example {
+  umbrella header "Pods-SegmentBarView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

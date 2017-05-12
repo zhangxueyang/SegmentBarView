@@ -1,0 +1,6 @@
+framework module SegmentBarView {
+  umbrella header "SegmentBarView-umbrella.h"
+
+  export *
+  module * { export * }
+}
