@@ -1,0 +1,14 @@
+use_frameworks!
+
+target 'SegmentBarView_Example' do
+  pod 'SegmentBarView', :path => '../'
+
+  target 'SegmentBarView_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+  pod 'Expecta'
+  pod 'FBSnapshotTestCase'
+  pod 'Expecta+Snapshots'
+  end
+end
